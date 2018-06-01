@@ -6,7 +6,7 @@ How to use
 ```
 import components from '@/components/vue-components/index'
 ```
--
+
 **In .vue files**
 
 
@@ -16,4 +16,3 @@ this.$loading().hide();
 
 this.$toast('success!');
 ```
--
