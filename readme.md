@@ -4,7 +4,7 @@ How to use
 **In main.js**
 
 ```
-import components from '@/components/vue-components/index'
+import components from '@/components/loading-toast/index'
 ```
 
 **In .vue files**
